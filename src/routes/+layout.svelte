@@ -2,4 +2,6 @@
 	import '../app.postcss';
 </script>
 
-<slot />
+<div class="bg-charcoal-300 min-h-screen">
+	<slot />
+</div>
